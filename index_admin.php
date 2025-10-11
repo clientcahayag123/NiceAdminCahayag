@@ -395,7 +395,7 @@
 
           <li>
             <a href="index_admin.php?page=registration_form" class="active">
-              <i class="bi bi-circle"></i><span>Registration Form</span>
+              <i class="bi bi-circle"></i><span>Personal Information Form</span>
             </a>
           </li>
 
